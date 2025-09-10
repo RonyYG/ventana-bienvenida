@@ -67,11 +67,14 @@ Este proyecto es una aplicación de escritorio sencilla desarrollada en Java uti
 
 Puedes encontrar capturas de pantalla en la carpeta `/screenshots`.
 
+
+<img width="1531" height="850" alt="image" src="https://github.com/user-attachments/assets/d3d67aa2-b76a-4cc3-b03f-5dd3d4498910" /> 
+
 ---
 
 ## Autor
 
-Tu Nombre Aquí
+Rony Jans Yactayo Gutierrez
 
 ---
 
